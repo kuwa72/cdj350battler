@@ -1,0 +1,4 @@
+pyrekordbox>=0.3.0
+pykakasi>=2.0.0
+click>=8.0.0
+tqdm>=4.62.0
